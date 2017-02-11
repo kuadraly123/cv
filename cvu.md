@@ -32,3 +32,28 @@
     * Microsoft Office
     * AutoCAD
     * Java
+    
+##Experiencia Profesional.
+
+ _Restaurante El Caguamon_
+   * Ayudante De Cocinero
+   * Lavaplatos
+   * Cajero
+   * Guardia 
+     
+_Centro De Computo Esperanza_
+  * Ayudante De Mantenimiento De Máquinas
+  * Actualización De Software
+  * Contabilidad 
+
+## Formación Adicional E Interés
+ * Deportes Hobbies
+  * Basket
+  * Futbol
+  * Parkour 
+  * Beisbol
+ * Instrumentos
+   * Guitarra
+   * Flauta 
+   * Teclado
+
