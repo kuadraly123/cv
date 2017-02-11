@@ -20,3 +20,15 @@
  
 
 
+##Escolaridad.
+
+ | Año | Instituto | Título |
+|--------|-------- |        |
+| 2006 - 2009|  Esc. Sec. Tec. #32|Informático|
+| 2009 - 2012|  Cbtis #21|Electrónico|
+| 2012 - Actualidad| Tecnológico De Mexicali|Ing. Sistemas Computacionales (Próximo)
+
+  * Programas Manejados (Actualidad)
+    * Microsoft Office
+    * AutoCAD
+    * Java
